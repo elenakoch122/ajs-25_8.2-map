@@ -1,6 +1,6 @@
 # ДЗ Контейнеры - Map
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/ngv3updjw0wyghv7?svg=true)](https://ci.appveyor.com/project/elenakoch122/ajs-25-8-2-map)
 
 ### Легенда
 
